@@ -131,7 +131,7 @@ module button_counter_top (
   //   end
   // end
 
-  // always @(posedge clk, reset) begin
+  // always @(posedge clk, posedge reset) begin
   //   // Asynchronous reset
   //   if (reset) begin
   //     counter <= 4'b0;
