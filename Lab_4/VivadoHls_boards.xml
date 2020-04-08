@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myplatforms>
+  <platform name="xilinx" value="">
+    <board name="Xilinx_ML403" display_name="Virtex 4 ML403 Evaluation Platform" family="virtex4" part="xc4vfx12ff668-10"  device="xc4vfx12" package="ff668" speedgrade="-10" vendor="xilinx.com" />
+    <board name="Xilinx_ML405" display_name="Virtex 4 ML405 Evaluation Platform" family="virtex4" part="xc4vfx20ff672-10"  device="xc4vfx20" package="ff672" speedgrade="-10" vendor="xilinx.com" />
+    <board name="Xilinx_ML410_RevC" display_name="Virtex 4 ML410 Evaluation Platform" family="virtex4" part="xc4vfx60ff1152-11"  device="xc4vfx60" package="ff1152" speedgrade="-11" vendor="xilinx.com" />
+    <board name="Xilinx_ML505" display_name="Virtex 5 ML505 Evaluation Platform" family="virtex5" part="xc5vlx50tff1136-1"  device="xc5vlx50t" package="ff1136" speedgrade="-1" vendor="xilinx.com" />
+    <board name="Xilinx_ML506" display_name="Virtex 5 ML506 Evaluation Platform" family="virtex5" part="xc5vsx50tff1136-1"  device="xc5vsx50t" package="ff1136" speedgrade="-1" vendor="xilinx.com" />
+    <board name="Xilinx_ML507_RevA" display_name="Virtex 5 ML507 Evaluation Platform" family="virtex5" part="xc5vfx70tff1136-1"  device="xc5vfx70t" package="ff1136" speedgrade="-1" vendor="xilinx.com" />
+    <board name="Xilinx_ML510" display_name="Virtex 5 ML510 Evaluation Platform" family="virtex5" part="xc5vfx130tff1738-2"  device="xc5vfx130t" package="ff1738" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_ML605" display_name="Virtex 6 ML605 Evaluation Platform" family="virtex6" part="xc6vlx240tff1156-1"  device="xc6vlx240t" package="ff1156" speedgrade="-1" vendor="xilinx.com" />
+    <board name="Xilinx_S3ADSP1800_Rev1" display_name="Spartan-3A DSP 1800A Starter Board" family="spartan3adsp" part="xc3sd1800afg676-4"  device="xc3sd1800a" package="fg676" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_S3ADSP3400_RevD" display_name="Spartan-3A DSP 3400A Development Board" family="spartan3adsp" part="xc3sd3400afg676-4"  device="xc3sd3400a" package="fg676" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_SP3E1600E_RevA" display_name="Spartan-3E 1600E MicroBlaze Dev Board" family="spartan3e" part="xc3s1600efg320-4"  device="xc3s1600e" package="fg320" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_SP601" display_name="Spartan-6 SP601 Evaluation Platform" family="spartan6" part="xc6slx16csg324-2"  device="xc6slx16" package="csg324" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_SP605" display_name="Spartan-6 SP605 Evaluation Platform" family="spartan6" part="xc6slx45tfgg484-3"  device="xc6slx45t" package="fgg484" speedgrade="-3" vendor="xilinx.com" />
+    <board name="Xilinx_Spartan3AN_RevD" display_name="Spartan-3AN Starter Kit" family="spartan3a" part="xc3s700anfgg484-4"  device="xc3s700an" package="fgg484" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_Spartan3A_RevD" display_name="Spartan-3A Starter Kit" family="spartan3a" part="xc3s700afg484-4"  device="xc3s700a" package="fg484" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_Spartan3E_RevD" display_name="Spartan-3E Starter Kit" family="spartan3e" part="xc3s500efg320-4"  device="xc3s500e" package="fg320" speedgrade="-4" vendor="xilinx.com" />
+    <board name="Xilinx_ZedBoard" display_name="ZedBoard Zynq Evaluation and Development Kit" family="zynq" part="xc7z020clg484-1"  device="xc7z020" package="clg484" speedgrade="-1" vendor="em.avnet.com" />
+    <board name="Xilinx_AC701" display_name="Artix-7 AC701 Evaluation Platform" family="artix7" part="xc7a200tfbg676-2"  device="xc7a200t" package="fbg676" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_KC705" display_name="Kintex-7 KC705 Evaluation Platform" family="kintex7" part="xc7k325tffg900-2"  device="xc7k325t" package="ffg900" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_KCU105" display_name="Kintex UltraScale KCU105 Evaluation Platform" family="kintexu" part="xcku040-ffva1156-2-e"  device="xcku040" package="-ffva1156" speedgrade="-2-e" vendor="xilinx.com" />
+    <board name="Xilinx_VC707" display_name="Virtex-7 VC707 Evaluation Platform" family="virtex7" part="xc7vx485tffg1761-2"  device="xc7vx485t" package="ffg1761" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_VC709" display_name="Virtex-7 VC709 Evaluation Platform" family="virtex7" part="xc7vx690tffg1761-2"  device="xc7vx690t" package="ffg1761" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_VCU108" display_name="Virtex UltraScale VCU108 Evaluation Platform" family="virtexu" part="xcvu095-ffva2104-2-e"  device="xcvu095" package="-ffva2104" speedgrade="-2-e" vendor="xilinx.com" />
+    <board name="Xilinx_VCU110" display_name="Virtex UltraScale VCU110 Evaluation Platform" family="virtexu" part="xcvu190-flgc2104-2-e"  device="xcvu190" package="-flgc2104" speedgrade="-2-e" vendor="xilinx.com" />
+    <board name="Xilinx_ZC702" display_name="Zynq ZC702 Evaluation Board" family="zynq" part="xc7z020clg484-1"  device="xc7z020" package="clg484" speedgrade="-1" vendor="xilinx.com" />
+    <board name="Xilinx_ZC706" display_name="Zynq ZC706 Evaluation Board" family="zynq" part="xc7z045ffg900-2"  device="xc7z045" package="ffg900" speedgrade="-2" vendor="xilinx.com" />
+    <board name="Xilinx_ZCU102" display_name="ZYNQ UltraScale+ ZCU102 Evaluation Platform" family="zynquplus" part="xczu9eg-ffvb1156-1-i-es1"  device="xczu9eg" package="-ffvb1156" speedgrade="-1-i-es1" vendor="xilinx.com" />
+    <board name="Alpha-Data" display_name="Alpha-Data ADM-PCIE-7V3" family="virtex7" part="xc7vx690tffg1157-2"  device="xc7vx690t" package="ffg1157" speedgrade="-2" vendor="alpha-data.com" />
+    <board name="Nexys_Video" display_name="Nexys Video" family="artix7" part="xc7a200tsbg484-1" device="xc7a200t" package="sbg484" speedgrade="-1" vendor="digilentinc.com" />
+	<board name="Digilent_Zybo_Z7_10" display_name="Digilent Zybo Z7-10" family="zynq" part="xc7z010clg400-1" device="xc7z010" package="clg400" speedgrade="-1" vendor="digilentinc.com" />
+  </platform>
+</myplatforms>
